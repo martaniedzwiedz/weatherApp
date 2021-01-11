@@ -1,0 +1,10 @@
+{
+  "weather_page": {
+    "weather_app": "Weather App",
+    "humidity": "Humidity:",
+    "pressure": "Pressure:",
+    "wind": "Wind:",
+    "error_occur": "An error occured during fetching data. \\n Please try again.",
+    "try_again": "TRY AGAIN"
+  }
+}
